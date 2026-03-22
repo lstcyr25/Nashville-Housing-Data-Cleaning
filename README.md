@@ -51,6 +51,3 @@ The dataset is now:
 - Structured for querying  
 - Ready for use in tools like Tableau or Power BI  
 
-
-## 📬 Contact
-If you have any questions or feedback, feel free to reach out!
