@@ -41,7 +41,6 @@ The following transformations were performed:
 - Consistent formatting
 - Ready for analysis or visualization
 
-(*Optional: Insert screenshots here*)
 
 ---
 
