@@ -8,8 +8,8 @@ The goal of this project was to prepare the dataset for downstream analytics by 
 ---
 
 ## ⚙️ Tools Used
-- SQL (SQL Server / MySQL)
-- Excel (optional)
+- SQL (SQL Server)
+- Excel 
 
 ---
 
